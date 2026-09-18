@@ -1,7 +1,7 @@
 ## 📂 Project Structure
 
 ```text
-📦 AI-Driven-Property-Security-Verification-System
+AI-Driven-Property-Security-Verification-System/
 │
 ├── 📄 AI Property Verification Intelligence.pdf
 │   └── Property verification intelligence & AI security features
