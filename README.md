@@ -1,5 +1,6 @@
 ## 📂 Project Structure
 
+```text
 📦 AI-Driven-Property-Security-Verification-System
 │
 ├── 📄 AI Property Verification Intelligence.pdf
@@ -16,3 +17,4 @@
 │
 └── 🔒 ~$ustVerify_Proplox_PBL_Synopsis_Report.docx
     └── Temporary Word lock file
+```
