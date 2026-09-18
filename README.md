@@ -1,18 +1,16 @@
-```
-AI-Driven-Property-Security-Verification-System/
+📦 AI-Driven-Property-Security-Verification-System
 │
 ├── 📄 AI Property Verification Intelligence.pdf
-│   └── AI-based property verification concept, security intelligence & verification features
+│   └── Property verification intelligence & AI security features
 │
 ├── 📄 AI Intelligence Property Verification Flow.pdf
-│   └── System workflow and step-by-step property verification process
+│   └── AI property verification workflow & process flow
 │
 ├── 📄 TrustVerify_Proplox_PBL_Synopsis_Report.pdf
-│   └── Complete PBL synopsis including introduction, objectives, methodology, proposed system & project details
+│   └── Complete PBL synopsis & project documentation
 │
-├── 📄 TrustVerify_Proplox_PBL_Synopsis_Report.docx
-│   └── Editable Word version of the complete PBL synopsis report
+├── 📝 TrustVerify_Proplox_PBL_Synopsis_Report.docx
+│   └── Editable PBL synopsis report
 │
-└── 📄 ~$ustVerify_Proplox_PBL_Synopsis_Report.docx
-    └── Temporary Microsoft Word lock file
-```
+└── 🔒 ~$ustVerify_Proplox_PBL_Synopsis_Report.docx
+    └── Temporary Word lock file
