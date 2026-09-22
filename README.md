@@ -32,7 +32,7 @@ AI-Driven-Property-Security-Verification-System/
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="architecture.png" alt="AI-Driven Property Security Verification System Architecture" width="900">
+  <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1790095272/architecture.jpg" alt="AI-Driven Property Security Verification System Architecture" width="900">
 </p>
 
 **Workflow:** User Interface → Backend/API → Document Intelligence → AI Verification → Risk & Report → Secure Database & Storage
