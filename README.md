@@ -29,6 +29,7 @@ AI-Driven-Property-Security-Verification-System/
 ├── TrustVerify_Proplox_PBL_Synopsis_Report.pdf
 └── TrustVerify_Proplox_PBL_Synopsis_Report.docx
 ```
+
 ## 🏗️ System Architecture
 
 <p align="center">
