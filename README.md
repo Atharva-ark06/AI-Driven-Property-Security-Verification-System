@@ -29,6 +29,14 @@ AI-Driven-Property-Security-Verification-System/
 ├── TrustVerify_Proplox_PBL_Synopsis_Report.pdf
 └── TrustVerify_Proplox_PBL_Synopsis_Report.docx
 ```
+## 🏗️ System Architecture
+
+<p align="center">
+  <img src="architecture.png" alt="AI-Driven Property Security Verification System Architecture" width="900">
+</p>
+
+**Workflow:** User Interface → Backend/API → Document Intelligence → AI Verification → Risk & Report → Secure Database & Storage
+
 
 ## 🎯 Objective
 
