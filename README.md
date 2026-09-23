@@ -1,51 +1,77 @@
 # 🏠 AI-Driven Property Security Verification System
- 
-> **An AI-powered solution for intelligent, secure, and reliable property document verification.**
 
-The **AI-Driven Property Security Verification System** is a PBL project focused on improving property verification through **Artificial Intelligence, document analysis, and security-aware validation**.
+<p align="center">
+  <b>AI-powered property document verification with intelligent risk detection</b>
+</p>
 
-It aims to analyze heterogeneous property documents, extract relevant information, cross-verify critical details, and identify **mismatches, missing information, and potential risk indicators**.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Enabled-6366f1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Information%20Security-Focused-0ea5e9?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PBL-5th%20Semester-8b5cf6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-In%20Development-f59e0b?style=for-the-badge">
+</p>
+
+---
+
+## 📌 Overview
+
+**AI-Driven Property Security Verification System** is an AI-powered solution designed to simplify and strengthen the property verification process.
+
+The system analyzes multiple property-related documents, extracts relevant information, cross-verifies details, and identifies **mismatches, missing information, and potential risk indicators**.
+
+### 🎯 Objectives
+
+* 📄 **Design** an AI-powered property document verification system.
+* 🤖 **Develop** intelligent information extraction and cross-document verification.
+* 🔐 **Implement** risk identification and structured verification reporting.
+
+---
 
 ## ✨ Key Features
 
-* 🤖 **AI-Powered Document Analysis**
-* 📄 **Information Extraction from Property Documents**
-* 🔍 **Cross-Verification of Property Details**
-* ⚠️ **Mismatch & Risk Detection**
-* 🔐 **Security-Focused Verification**
-* 📊 **Structured Verification Reports**
+* 📑 AI-assisted document analysis
+* 🔍 Intelligent information extraction
+* 🔄 Cross-document verification
+* ⚠️ Mismatch & missing-data detection
+* 🚨 Property risk identification
+* 📊 Structured verification results
+* 🔐 Information-security focused processing
 
-## 🛠️ Core Technologies
+---
 
-**AI/ML · Document Processing · Information Security · Data Validation · Intelligent Verification**
+## 🧠 Technology Domains
 
-## 📁 Project Documentation
+**Artificial Intelligence • Machine Learning • Document Intelligence • Information Security • Risk Analysis**
 
-```text
-AI-Driven-Property-Security-Verification-System/
-│
-├── AI Property verification Intelligence.pdf
-├── AI intelligence property verification flow.pdf
-├── TrustVerify_Proplox_PBL_Synopsis_Report.pdf
-└── TrustVerify_Proplox_PBL_Synopsis_Report.docx
-```
+---
 
-## 🏗️ System Architecture
+## 📂 Project Documentation
+
+The repository contains the project's:
+
+* 📊 Presentation
+* 📝 Synopsis & Report
+* 📄 Abstract
+* 🏗️ System Architecture
+* 📚 Project Documentation
+
+---
+
+## 🚀 Project Status
+
+**Currently under development as a 5th-semester PBL project.**
+
+Future development will focus on improving AI-based document processing, verification accuracy, security, and automated risk assessment.
+
+---
+
+## 👨‍💻 Developer
+
+**Atharva Kulkarni**
+B.Tech CSE — G M University, Davangere
+
+---
 
 <p align="center">
-  <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1790095272/architecture.jpg" alt="AI-Driven Property Security Verification System Architecture" width="900">
+  <b>🤖 AI for Verification • 🔐 Security for Trust</b>
 </p>
-
-**Workflow:** User Interface → Backend/API → Document Intelligence → AI Verification → Risk & Report → Secure Database & Storage
-
-
-## 🎯 Objective
-
-To **design, develop, and implement** an AI-driven system that enhances the security, accuracy, and reliability of property document verification.
-
-## 👨‍💻 Project
-
-**PBL – 5th Semester**
-**G M University, Davangere**
-
-**Developed by Atharva Kulkarni & Team**
