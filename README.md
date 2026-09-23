@@ -1,4 +1,8 @@
-### 🏠 AI-Driven Property Security Verification System 
+# 🏠 AI-Driven Property Security Verification System
+
+<p align="center">
+  <b>AI-powered property document verification with intelligent risk detection</b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%2FML-Enabled-6366f1?style=for-the-badge">
@@ -15,23 +19,25 @@
 
 The system analyzes multiple property-related documents, extracts relevant information, cross-verifies details, and identifies **mismatches, missing information, and potential risk indicators**.
 
-### 🎯 Objectives
+---
 
-* 📄 **Design** an AI-powered property document verification system.
-* 🤖 **Develop** intelligent information extraction and cross-document verification.
-* 🔐 **Implement** risk identification and structured verification reporting.
+## 🎯 Objectives
+
+- 📄 **Design** an AI-powered property document verification system.
+- 🤖 **Develop** intelligent information extraction and cross-document verification.
+- 🔐 **Implement** risk identification and structured verification reporting.
 
 ---
 
 ## ✨ Key Features
 
-* 📑 AI-assisted document analysis
-* 🔍 Intelligent information extraction
-* 🔄 Cross-document verification
-* ⚠️ Mismatch & missing-data detection
-* 🚨 Property risk identification
-* 📊 Structured verification results
-* 🔐 Information-security focused processing
+- 📑 AI-assisted document analysis
+- 🔍 Intelligent information extraction
+- 🔄 Cross-document verification
+- ⚠️ Mismatch and missing-data detection
+- 🚨 Property risk identification
+- 📊 Structured verification results
+- 🔐 Information-security focused processing
 
 ---
 
@@ -41,21 +47,29 @@ The system analyzes multiple property-related documents, extracts relevant infor
 
 ---
 
+## 🏗️ System Architecture
+
+<p align="center">
+  <img src="YOUR_ARCHITECTURE_IMAGE_URL" alt="System Architecture" width="900">
+</p>
+
+---
+
 ## 📂 Project Documentation
 
-The repository contains the project's:
+This repository contains the project's:
 
-* 📊 Presentation
-* 📝 Synopsis & Report
-* 📄 Abstract
-* 🏗️ System Architecture
-* 📚 Project Documentation
+- 📊 Presentation
+- 📝 Synopsis & Report
+- 📄 Abstract
+- 🏗️ System Architecture
+- 📚 Supporting Documentation
 
 ---
 
 ## 🚀 Project Status
 
-**Currently under development as a 5th-semester PBL project.**
+**In Development** — 5th Semester PBL Project
 
 Future development will focus on improving AI-based document processing, verification accuracy, security, and automated risk assessment.
 
@@ -63,8 +77,9 @@ Future development will focus on improving AI-based document processing, verific
 
 ## 👨‍💻 Developer
 
-**Atharva Kulkarni**
-B.Tech CSE — G M University, Davangere
+**Atharva Kulkarni**  
+B.Tech Computer Science & Engineering  
+G M University, Davangere
 
 ---
 
