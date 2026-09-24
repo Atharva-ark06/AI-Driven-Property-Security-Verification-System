@@ -1,7 +1,7 @@
 # 🏠 AI-Driven Property Security Verification System
 
 <p align="center">
-  <b>AI-powered property document verification with intelligent risk detection</b>
+  <b></b>
 </p>
 
 <p align="center">
