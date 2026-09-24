@@ -50,7 +50,7 @@ The system analyzes multiple property-related documents, extracts relevant infor
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="YOUR_ARCHITECTURE_IMAGE_URL" alt="System Architecture" width="900">
+  <img src="https://res.cloudinary.com/wpop4xyo/image/upload/v1790095272/architecture.jpg" alt="System Architecture" width="900">
 </p>
 
 ---
