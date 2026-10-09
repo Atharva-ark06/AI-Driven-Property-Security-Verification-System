@@ -1,9 +1,9 @@
 ###    🏠 AI-Driven Property Security Verification System
 
-<p align="center" widdth="200%" height="100%">
-  <b> 🏠 AI-Driven Property Security Verification System</b>
+<p align="center" >
+  <b></b>
 </p>
-
+##    🏠 AI-Driven Property Security Verification System
 <p align="center">
   <img src="https://img.shields.io/badge/AI%2FML-Enabled-6366f1?style=for-the-badge">
   <img src="https://img.shields.io/badge/Information%20Security-Focused-0ea5e9?style=for-the-badge">
