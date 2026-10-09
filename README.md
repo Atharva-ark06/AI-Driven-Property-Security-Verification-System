@@ -1,8 +1,7 @@
 <p align="center" >
-</p>
 
 ###    🏠 AI-Driven Property Security Verification System
-
+</p>
 <p align="center" >
 </p>
 
