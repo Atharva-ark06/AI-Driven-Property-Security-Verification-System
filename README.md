@@ -1,8 +1,7 @@
 ###    🏠 AI-Driven Property Security Verification System
 
-<p align="center" >
-  <p AI-Driven Property Security Verification System >
-</p>
+<p align="center" AI-Driven Property Security Verification System >
+  
 </p>
 
 
